@@ -1,0 +1,7 @@
+numpy
+pytorch_lightning
+sconf
+Pillow
+timm
+zss
+transformers
